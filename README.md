@@ -1,10 +1,12 @@
 # README
 
-## Web Scraping from Wikipedia
+## File Scraping with Regex
 
 Lab 19 - Automation
 
 Author: Alex Angelico
+
+Collaborator: Anthony Beaver
 
 ----
 
@@ -42,4 +44,4 @@ Within this directory, open ```automation.py```
 
 ## Change Log
 
-.: ** - 10 Feb 2021
+0.85: *I/O functionality complete* - 10 Feb 2021
