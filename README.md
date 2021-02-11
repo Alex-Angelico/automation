@@ -12,7 +12,7 @@ Collaborator: Anthony Beaver
 
 ## Open PR
 
-https://github.com/Alex-Angelico/automation/pull/1
+https://github.com/Alex-Angelico/automation/pull/2
 
 ----
 
