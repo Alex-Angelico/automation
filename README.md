@@ -43,4 +43,3 @@ Within this directory, open ```automation.py```
 ## Change Log
 
 .: ** - 10 Feb 2021
-# automation
